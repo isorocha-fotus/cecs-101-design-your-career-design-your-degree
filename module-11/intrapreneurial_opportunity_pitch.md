@@ -67,8 +67,6 @@ A 5-minute in-class presentation, pitched as if you're speaking to a manager or 
 5. The expected impact and how you'd measure success
 6. Your reflection on the challenges and what you'd do if the answer is "no"
 
-Be ready to answer questions from classmates and the instructor, who will play the role of a skeptical manager.
-
 Record your presentation and upload it to YouTube. You can set it to public or unlisted, whichever you prefer, as long as the link is accessible to the instructor.
 
 ## What to Submit
