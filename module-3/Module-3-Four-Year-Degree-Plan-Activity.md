@@ -15,14 +15,13 @@ Before building your plan, collect the following:
 
 **Materials I used:**
 
-- UT Knoxville 2026–2027 Undergraduate Catalog: *Applied Artificial Intelligence Major, BS in Applied Artificial Intelligence* (uTrack map, TOPS requirements, and Applied AI program electives)
-- UTK Volunteer Core approved course lists (WC, OC, AOC, AH, NS, QR, SS, GCI, GCUS, EI)
-- Catalog pages for the Applied Computing Minor and the Entrepreneurship Minor
+- My uAchieve degree audit for **CECS: Applied Artificial Intelligence** (run 10/04/2026, catalog term Fall 2025): 91 hours earned, 15 in progress, 3.64 GPA
+- UT Knoxville 2025–2026 Undergraduate Catalog: Applied Artificial Intelligence B.S. requirements, TOPS electives, and the Food Science Minor
+- Catalog course descriptions to check prerequisites for my remaining courses
 - My SMART Goals Table from the SMART Goals Activity
-- My degree audit (to double-check with my advisor for any credit I may already have)
+- My Fall 2026 class schedule
 
-**Tentative major:** B.S. in Applied Artificial Intelligence (College of Emerging and Collaborative Studies)
-**Planned minors:** Applied Computing (counts toward my TOPS requirement) and Entrepreneurship
+**Where I am now:** Senior, Applied Artificial Intelligence major with a Food Science minor. I started at UTK in the Herbert College of Agriculture taking food science courses and switched into Applied AI in Spring 2026. **Planned graduation: Fall 2027.**
 
 ---
 
@@ -32,21 +31,24 @@ Identify which general education (core) requirements you need to fulfill and dis
 
 Create a list of all required general education courses and note any you may have already fulfilled through AP, IB, or dual enrollment credits from high school.
 
-**General Education Requirements:**
+**General Education Requirements:** All Volunteer Core requirements are complete according to my degree audit.
 
 | Requirement | Course(s) That Fulfill It | Already Completed? (AP/IB/Dual Enrollment) |
 |---|---|---|
-| Written Communication (WC) — 3 courses | ENGL 101, ENGL 102, ENGL 356 (Writing with Generative AI) | No — confirm on degree audit |
-| Oral Communication (OC) — 1 course | COAD 130 (Basic Design Thinking and Innovation) | No |
-| Applied Oral Communication (AOC) — 1 course | CECS 499 (Senior Transdisciplinary Capstone) — built into the major | No |
-| Quantitative Reasoning (QR) — 2 courses | AI 101 and AI 102 — built into the major | AI 101 in progress (Fall 2026) |
-| Natural Sciences (NS) — 2 courses, 1 with lab | FDSC 100 (Science of Food) + BIOL 101 with lab | No — confirm on degree audit |
-| Arts and Humanities (AH) — 1 course | ENGL 285 (Introduction to Digital Humanities) | No |
-| Social Sciences (SS) — 1 course | PSYC 110 (General Psychology) | No — confirm on degree audit |
-| Global Citizenship – International (GCI) — 1 course | FDSC 110 (Fermented Foods of the World) | No |
-| Global Citizenship – United States (GCUS) — 1 course | FDSC 150 (History and Culture of Food) | No |
-| Expanded Perspectives — 6 credit hours | ECON 201 (Introductory Economics) and CMST 201 (Introduction to Communication Studies) | No |
-| Engaged Inquiries (EI) — 9 credit hours, 2+ subjects | CECS 101, PSYC 110, COAD 130 (AI 101/102 and COAD 430 are also EI courses) | CECS 101 in progress (Fall 2026) |
+| English Composition | ENGL 101, ENGL 102 | Yes. ENGL 101 was transfer credit (Spring 2023, before UTK); ENGL 102 completed Spring 2024 |
+| Written Communication (WC) | ENGL 255 – Public Writing | Yes (Fall 2025) |
+| Oral Communication (OC) | DSGN 130 – Basic Design Thinking and Innovation (= COAD 130) | Yes (Spring 2025) |
+| Applied Oral Communication (AOC) | ALEC 300 – Career/Professional Development | Yes (Fall 2025) |
+| Quantitative Reasoning (QR) — 2 courses | MATH 113 – Mathematical Reasoning; AI 101 – Intro to the World of AI | Yes. MATH 113 was transfer credit (Spring 2023); AI 101 completed Spring 2026 |
+| Natural Sciences (NS) with lab | BIOL 159 + BIOL 160 | Yes (Spring 2024) |
+| Natural Sciences (NS) | FDSC 100 – Science of Food | Yes (Fall 2023) |
+| Social Sciences (SS) | PUBH 201 – Intro to Public Health | Yes (Fall 2024) |
+| Arts and Humanities (AH) | THEA 100 – Introduction to Theatre | Yes (Fall 2024) |
+| Global Citizenship – International (GCI) | ESS 120 – Soils and Civilizations | Yes (Fall 2023) |
+| Global Citizenship – United States (GCUS) | ALEC 150 – Land Grants' Agricultural Legacy | Yes (Spring 2025) |
+| Expanded Perspectives — 6 hours | FDSC 110 – Fermented Foods of the World; POLS 101 – U.S. Government and Politics | Yes (Fall 2024, Spring 2025) |
+| Engaged Inquiries (EI) — 9 hours, 2+ subjects | PUBH 201, ALEC 150, DSGN 130 | Yes |
+| Tennessee American History requirement | — | Satisfied |
 
 ---
 
@@ -56,23 +58,24 @@ Using your institution's academic catalog, list all required courses for your te
 
 Distribute these courses across your four years, respecting prerequisite sequences and aiming for a balanced load each semester.
 
-**Major Requirements:**
+**Major Requirements (Applied Artificial Intelligence, B.S. — minimum grade of C in each):**
 
 | Course | Prerequisite(s) | Notes |
 |---|---|---|
-| AI 101 – Introduction to the World of AI (or AI 111 for majors) | None (AI 111 has a CECS 250 corequisite) | Year 1 Fall. Also counts for QR and EI |
-| CECS 101 – Design Your Career, Design Your Degree | None | Year 1 Fall. Also counts for EI |
-| CECS 250 – Computational and Mathematical Tools for Data Science and Applied AI | Restricted to CECS majors | Year 1 Fall |
-| AI 102 – Natural Language-based Programming Techniques | None listed | Year 1 Spring. Also counts for QR and EI |
-| AI 201 – AI, Ethics, and Legal Frameworks | AI 101, AI 102, or AI 111 | Year 2 Fall |
-| AI 202 – Human-AI Interaction and Experience Design | AI 101, AI 102, or AI 111 | Year 2 Spring. Most connected to "understanding people" in my POV |
-| AI 301 – Natural Language Processing and Conversational AI | AI 101 (or AI 111) and AI 102 | Year 3 Fall |
-| AI 302 – AI-based Data Handling and Visualization | AI 101, AI 102, or AI 111 | Year 3 Spring |
-| CECS 399 – CECS Transdisciplinary Capstone | Junior standing; CECS majors/minors | Year 3 Spring. Also the capstone for my Applied Computing Minor |
-| AI 401 – Applied AI for Research and Applications | AI 101 (or AI 111) and AI 102 | Year 4 Fall |
-| CECS 375 – Internship in Emerging Technologies (select one: CECS 365, 375, or 485) | Junior standing; college permission | Year 4 Fall. I'm choosing the internship option |
-| CECS 499 – CECS Senior Transdisciplinary Capstone | Senior standing | Year 4 Spring. Also counts for AOC |
-| TOPS Electives — 30 credit hours | Must include at least one minor or certificate | Applied Computing Minor (15 hrs) + 15 hrs of Applied AI program electives. TOPS plan must be defined by the end of Term 4 |
+| AI 101 – Introduction to the World of AI | None | ✅ Completed Spring 2026 (B) |
+| CECS 101 – Design Your Career, Design Your Degree | None | In progress, Fall 2026 |
+| AI 102 – Natural Language-based Programming Techniques | None | In progress, Fall 2026 |
+| AI 201 – AI, Ethics, and Legal Frameworks | AI 101 or AI 102 | In progress, Fall 2026 |
+| CECS 399 – CECS Transdisciplinary Capstone | Junior standing | In progress, Fall 2026 |
+| AI 202 – Human-AI Interaction and Experience Design | AI 101 or AI 102 | Spring 2027 |
+| AI 301 – Natural Language Processing and Conversational AI | AI 101 and AI 102 | Spring 2027 (after AI 102 is finished) |
+| AI 302 – AI-based Data Handling and Visualization | AI 101 or AI 102 | Spring 2027 |
+| CECS 375 – Internship in Emerging Technologies (select one: CECS 375, 385, 475, or 485) | Junior standing; college permission | Summer 2027. I'm choosing the internship option |
+| AI 401 – Applied AI for Research and Applications | AI 101 and AI 102 | Fall 2027 |
+| CECS 499 – CECS Senior Transdisciplinary Capstone | Senior standing | Fall 2027 (final semester) |
+| TOPS Electives — 27 hours (CECS minors, CECS certificates, and/or Applied AI program electives) | Varies | Audit shows 6 earned, 15 in progress, 6 still needed. AI 311 (Fall 2026) counts. I plan DATA 101 and INSC 384 for the last 6 hours, and I'll confirm the count with my advisor |
+
+**Food Science Minor (18 hours):** 12 hours completed (3.75 GPA). I still need **FDSC 410 – Food Chemistry** (prerequisite: CHEM 260) and **FDSC 421 – Food Microbiology** (prerequisite: MICR 210, or BIOL 220 and 229). I haven't taken either prerequisite yet, so both go in Spring 2027.
 
 ---
 
@@ -86,12 +89,12 @@ Based on your Career-to-Degree Map, identify 4–6 elective courses you would li
 
 **My Intentional Electives:**
 
-1. **AC 202 – Introduction to Web Development** (Applied Computing Minor) — Builds the HTML, CSS, JavaScript, and Git skills behind the websites I already build for clients, so I understand the code instead of only relying on AI tools.
-2. **AC 302 – Advanced Web Development** (Applied Computing Minor) — Covers front-end and back-end development and deployment, which lets me build full products and AI tools for businesses, not just websites.
-3. **ENT 350 – Introduction to Entrepreneurship** (Entrepreneurship Minor) — The first step toward turning my client work and product ideas into a real business.
-4. **ENT 451 – New Venture Planning** (Entrepreneurship Minor) — Teaches me how to plan, test, and fund a new venture, which connects to my goal of eventually creating products and companies of my own.
-5. **COAD 430 – Design Thinking and Innovation** (Entrepreneurship Minor) — Connects the design thinking from this course to product development and helps me understand what people actually need before I build something.
-6. **FDSC 100 – Science of Food** (Natural Sciences gen ed) — Lets me explore my interest in food and consumer products while meeting a requirement, so I can find out whether that is an industry I want to build products for.
+1. **AI 311 – AI for Cybersecurity** (TOPS, in progress Fall 2026) — Every website and AI tool I build for clients handles their data, so understanding security makes my work more trustworthy.
+2. **INSC 384 – Database Design** (TOPS, Fall 2027) — Most of the tools I want to build for businesses need a well-designed database behind them, and this fills a gap in my technical skills.
+3. **DATA 101 – Data Knowledge and Discovery** (TOPS, Summer 2027) — Strengthens my data foundation alongside AI 302 and helps me turn business data into useful products.
+4. **FDSC 410 – Food Chemistry** (Food Science Minor, Fall 2027) — Finishes my minor and gives me the science behind food products if I build AI tools or products for the food industry.
+5. **FDSC 421 – Food Microbiology** (Food Science Minor, Fall 2027) — The other required course to finish the minor. It connects to food safety and quality, an area where AI and data tools could be useful.
+6. **ENT 350 – Introduction to Entrepreneurship** (✅ completed Fall 2025, A) — Already gave me a business foundation. If I have room, I'd like to add ENT 451 – New Venture Planning to keep building toward starting my own company.
 
 ---
 
@@ -99,95 +102,130 @@ Based on your Career-to-Degree Map, identify 4–6 elective courses you would li
 
 Organize your courses into a semester-by-semester table. Use the template below.
 
-### YEAR 1 — Semester 2026 (Fall)
+*Because I'm a senior, Years 1–3 show what I have already completed (from my degree audit), and the remaining semesters show my plan to graduate in Fall 2027.*
+
+### Credit Earned Before UTK — Spring 2023 (Transfer / Dual Enrollment) ✅
 
 | Course | Credit | Gen Education/Major/Elective |
 |---|---|---|
-| AI 101 – Introduction to the World of AI (or AI 111) | 3 | Major (also QR / EI) |
-| CECS 101 – Design Your Career, Design Your Degree | 3 | Major (also EI) |
-| CECS 250 – Computational and Mathematical Tools for Data Science and Applied AI | 3 | Major |
-| ENGL 101 – English Composition I | 3 | Gen Education (WC) |
-| FDSC 100 – Science of Food | 3 | Gen Education (NS) |
-| **Total** | **15** | |
+| ENGL 101 – English Composition I | 3 | Gen Education (English Composition) |
+| MATH 113 – Mathematical Reasoning | 3 | Gen Education (QR) |
+| PYED 231 – Walking and Flexibility | 1 | Elective (general) |
+| **Total** | **7** | |
 
-### YEAR 1 — Semester 2027 (Spring)
+### YEAR 1 — Semester 2023 (Fall) ✅
 
 | Course | Credit | Gen Education/Major/Elective |
 |---|---|---|
-| AI 102 – Natural Language-based Programming Techniques | 3 | Major (also QR / EI) |
-| ENGL 102 – English Composition II | 3 | Gen Education (WC) |
-| PSYC 110 – General Psychology | 3 | Gen Education (SS / EI) |
-| BIOL 101 – Introduction to Biology (with lab) | 4 | Gen Education (NS with lab) |
-| AC 101 – Introduction to Applied Computing I | 3 | Elective (TOPS – Applied Computing Minor) |
-| **Total** | **16** | |
+| FDSC 100 – Science of Food | 3 | Gen Education (NS); Food Science Minor |
+| ESS 120 – Soils and Civilizations | 3 | Gen Education (GCI) |
+| FDSC 150 – History and Culture of Food | 3 | Elective (general) |
+| AGNR 100 – Student Success in the Herbert College of Agriculture | 1 | Elective (general) |
+| ECON 201 – Introductory Economics (withdrew) | 0 | — |
+| **Total** | **10** | |
 
-### YEAR 2 — Semester 2027 (Fall)
+### YEAR 1 — Semester 2024 (Spring) ✅
 
 | Course | Credit | Gen Education/Major/Elective |
 |---|---|---|
+| ENGL 102 – English Composition II | 3 | Gen Education (English Composition) |
+| BIOL 159 – Skills of Biological Investigation | 2 | Gen Education (NS with lab) |
+| BIOL 160 – Cellular and Molecular Biology | 3 | Gen Education (NS with lab) |
+| FDSC 241 – Food Preservation and Packaging | 3 | Food Science Minor (required) |
+| MATH 125 – Basic Calculus | 3 | Elective (general) |
+| NUTR 100 – Introductory Nutrition | 3 | Elective (general) |
+| **Total** | **17** | |
+
+### YEAR 2 — Semester 2024 (Fall) ✅
+
+| Course | Credit | Gen Education/Major/Elective |
+|---|---|---|
+| PUBH 201 – Intro to Public Health | 3 | Gen Education (SS / EI) |
+| THEA 100 – Introduction to Theatre | 3 | Gen Education (AH) |
+| FDSC 110 – Fermented Foods of the World | 3 | Gen Education (Expanded Perspectives) |
+| FDSC 442 – Food Additives and Ingredients; Chocolate, Fats, and Fads; Breads and Confections (3 × 1 credit) | 3 | Food Science Minor (elective) |
+| **Total** | **12** | |
+
+### YEAR 2 — Semester 2025 (Spring) + Summer 2025 ✅
+
+| Course | Credit | Gen Education/Major/Elective |
+|---|---|---|
+| DSGN 130 – Basic Design Thinking and Innovation (= COAD 130) | 3 | Gen Education (OC / EI) |
+| ALEC 150 – Land Grants' Agricultural Legacy | 3 | Gen Education (GCUS / EI) |
+| POLS 101 – U.S. Government and Politics | 3 | Gen Education (Expanded Perspectives) |
+| FDSC 201 – Professional Development | 1 | Elective (general) |
+| CHEM 122/123 – General Chemistry I + Lab (transfer) | 4 | Elective (general) |
+| CHEM 132/133 – General Chemistry II + Lab (Summer 2025, transfer) | 4 | Elective (general); prerequisite for CHEM 260 |
+| PHYS 221 – Elements of Physics I (withdrew) | 0 | — |
+| **Total** | **18** | |
+
+### YEAR 3 — Semester 2025 (Fall) ✅
+
+| Course | Credit | Gen Education/Major/Elective |
+|---|---|---|
+| ENGL 255 – Public Writing | 3 | Gen Education (WC) |
+| ALEC 300 – Career/Professional Development | 1 | Gen Education (AOC) |
+| ENT 350 – Introduction to Entrepreneurship | 3 | Elective (general) |
+| PHYS 221 – Elements of Physics I | 4 | Elective (general) |
+| STAT 201 – Introduction to Statistics | 3 | Elective (general) |
+| **Total** | **14** | |
+
+### YEAR 3 — Semester 2026 (Spring) ✅ — *switched to Applied AI*
+
+| Course | Credit | Gen Education/Major/Elective |
+|---|---|---|
+| AI 101 – Introduction to the World of AI | 3 | Major (also QR) |
+| FDSC 442 – Dairy Products Evaluation | 3 | Food Science Minor (elective) |
+| FDSC 450 – Food Fermentation | 3 | Elective (general) |
+| NUTR 311 – Physiological Biochemistry | 4 | Elective (general) |
+| **Total** | **13** | |
+
+**Completed through Spring 2026: 91 credit hours**
+
+### YEAR 4 — Semester 2026 (Fall) — *in progress*
+
+| Course | Credit | Gen Education/Major/Elective |
+|---|---|---|
+| AI 102 – Natural Language-based Programming Techniques | 3 | Major |
 | AI 201 – AI, Ethics, and Legal Frameworks | 3 | Major |
-| ENGL 285 – Introduction to Digital Humanities | 3 | Gen Education (AH / EI) |
-| FDSC 150 – History and Culture of Food | 3 | Gen Education (GCUS) |
-| ENGL 356 – Writing with Generative AI | 3 | Gen Education (WC) |
-| AC 102 – Introduction to Applied Computing II | 3 | Elective (TOPS – Applied Computing Minor) |
+| CECS 101 – Design Your Career, Design Your Degree | 3 | Major |
+| CECS 399 – CECS Transdisciplinary Capstone | 3 | Major (capstone) |
+| AI 311 – AI for Cybersecurity | 3 | Elective (TOPS – Applied AI program elective) |
 | **Total** | **15** | |
 
-### YEAR 2 — Semester 2028 (Spring)
+### YEAR 4 — Semester 2027 (Spring) — *planned*
 
 | Course | Credit | Gen Education/Major/Elective |
 |---|---|---|
 | AI 202 – Human-AI Interaction and Experience Design | 3 | Major |
-| FDSC 110 – Fermented Foods of the World | 3 | Gen Education (GCI) |
-| COAD 130 – Basic Design Thinking and Innovation | 3 | Gen Education (OC / EI) |
-| AC 202 – Introduction to Web Development | 3 | Elective (TOPS – Applied Computing Minor) |
-| DATA 101 – Data Knowledge and Discovery | 3 | Elective (TOPS – Applied AI program elective) |
-| **Total** | **15** | |
-
-### YEAR 3 — Semester 2028 (Fall)
-
-| Course | Credit | Gen Education/Major/Elective |
-|---|---|---|
 | AI 301 – Natural Language Processing and Conversational AI | 3 | Major |
-| ECON 201 – Introductory Economics: A Survey Course | 3 | Gen Education (Expanded Perspectives) |
-| CMST 201 – Introduction to Communication Studies | 3 | Gen Education (Expanded Perspectives) |
-| AC 302 – Advanced Web Development | 3 | Elective (TOPS – Applied Computing Minor) |
-| ENT 350 – Introduction to Entrepreneurship | 3 | Elective (Unrestricted – Entrepreneurship Minor) |
+| AI 302 – AI-based Data Handling and Visualization | 3 | Major |
+| CHEM 260 – Foundations of Organic Chemistry | 3 | Elective (prerequisite for FDSC 410) |
+| MICR 210 – Microbiology (confirm credit hours / lab) | 3 | Elective (prerequisite for FDSC 421) |
 | **Total** | **15** | |
 
-### YEAR 3 — Semester 2029 (Spring)
+### Summer 2027 — *planned*
 
 | Course | Credit | Gen Education/Major/Elective |
 |---|---|---|
-| AI 302 – AI-based Data Handling and Visualization | 3 | Major |
-| CECS 399 – CECS Transdisciplinary Capstone | 3 | Major (also Applied Computing Minor capstone) |
-| AC 211 – Introduction to Cloud Computing and Databases | 3 | Elective (TOPS – Applied Computing Minor) |
-| DATA 202 – Data Management and Visualization | 3 | Elective (TOPS – Applied AI program elective) |
-| ENT 462 – Innovation and Creativity | 3 | Elective (Unrestricted – Entrepreneurship Minor) |
-| **Total** | **15** | |
+| CECS 375 – Internship in Emerging Technologies | 3 | Major (internship requirement) |
+| DATA 101 – Data Knowledge and Discovery (online if available) | 3 | Elective (TOPS – Applied AI program elective) |
+| **Total** | **6** | |
 
-### YEAR 4 — Semester 2029 (Fall)
+### YEAR 5 — Semester 2027 (Fall) — *final semester, graduation*
 
 | Course | Credit | Gen Education/Major/Elective |
 |---|---|---|
 | AI 401 – Applied AI for Research and Applications | 3 | Major |
-| CECS 375 – Internship in Emerging Technologies | 3 | Major |
+| CECS 499 – CECS Senior Transdisciplinary Capstone | 3 | Major (senior capstone) |
+| FDSC 410 – Food Chemistry | 3 | Food Science Minor (required) |
+| FDSC 421 – Food Microbiology | 3 | Food Science Minor (required) |
 | INSC 384 – Database Design | 3 | Elective (TOPS – Applied AI program elective) |
-| ENT 451 – New Venture Planning | 3 | Elective (Unrestricted – Entrepreneurship Minor) |
-| COAD 430 – Design Thinking and Innovation | 3 | Elective (Unrestricted – Entrepreneurship Minor) |
 | **Total** | **15** | |
 
-### YEAR 4 — Semester 2030 (Spring)
+**Projected total at graduation: ~142 credit hours** (120 required). After Fall 2026 I need 18 hours of major courses, 6 hours of TOPS, and 6 hours to finish the Food Science minor (plus its two prerequisites).
 
-| Course | Credit | Gen Education/Major/Elective |
-|---|---|---|
-| CECS 499 – CECS Senior Transdisciplinary Capstone | 3 | Major (also AOC) |
-| AI 395 – Special Topics | 3 | Elective (TOPS – Applied AI program elective) |
-| INSC 305 – Internet and Society | 3 | Elective (TOPS – Applied AI program elective) |
-| ENT 470 – Managing an Entrepreneurial Start-Up | 3 | Elective (Unrestricted – Entrepreneurship Minor) |
-| ENT 425 – Entrepreneurial Marketing | 3 | Elective (Unrestricted) |
-| **Total** | **15** | |
-
-**Four-year total: 121 credit hours** (120 required). Major core: 36 · General education: 37 · TOPS: 30 · Unrestricted electives: 18
+**Backup plan if I can't do a summer internship:** Move CECS 375 to Fall 2027 (completing the internship during the semester) and DATA 101 to Spring 2027, which makes Spring 18 hours. If that is too heavy, I would talk to my advisor about whether my Food Science minor is worth the two extra prerequisite courses.
 
 ---
 
@@ -195,10 +233,10 @@ Organize your courses into a semester-by-semester table. Use the template below.
 
 | Year | Experience | Goal |
 |---|---|---|
-| Year 1 | Join an entrepreneurship or tech student organization and get involved with UT's Anderson Center for Entrepreneurship & Innovation; keep building websites and AI tools for my first 3 clients | Build community with ambitious, creative people and turn my side work into a consistent habit (SMART Goals 1, 3, 5) |
-| Year 2 | Apply to at least 10 internships in AI, tech, food, or product development and complete one by Summer 2027; take on 5 more client projects, at least 3 paid | Gain professional experience inside a company while growing my own business (SMART Goals 3 and 4) |
-| Year 3 | Complete CECS 399 and the Applied Computing Minor capstone; enter a student pitch competition with a product idea; land a second internship for Summer 2029 | Apply my technical and business skills to a real product and get feedback from faculty and industry professionals |
-| Year 4 | Complete the CECS 375 internship and the CECS 499 senior capstone; launch or grow my own product or company while applying for full-time roles in AI and product development | Transition from student to builder, with a portfolio of real projects and the option to keep growing my own company |
+| Fall 2026 (now) | Complete CECS 399; keep building websites and AI tools so I have 3 active clients; apply to at least 10 internships in AI, tech, food, or product development by January 31, 2027 | Gain real project experience and set up a summer internship (SMART Goals 1 and 3) |
+| Spring 2027 | Finish the core AI courses (AI 202, 301, 302) and add finished client projects to my portfolio | Strengthen my AI foundation and show real work to employers and clients (SMART Goal 2) |
+| Summer 2027 | Complete an internship for CECS 375 credit and finish 5 more client projects, at least 3 paid | Gain professional experience inside a company while growing my own business (SMART Goal 4) |
+| Fall 2027 | Complete the CECS 499 senior capstone, finish the Food Science minor, and graduate; apply for full-time roles in AI and product development while deciding whether to grow my own company full-time | Transition from student to builder, with a portfolio of real projects |
 
 ---
 
@@ -212,4 +250,4 @@ Write a short reflection (8–12 sentences):
 - What do you most want to discuss with your academic advisor when you meet?
 
 **My Reflection:**
-The hardest part of building this draft was deciding how to use my TOPS and elective credits, because I am interested in so many areas that it was hard to choose only a few. I ended up building the plan around an Applied Computing Minor for my technical skills and an Entrepreneurship Minor for my business skills, since those two together match what I am already doing by building websites and AI tools for companies. One uncertainty is how much I want to explore food and consumer products, so I used my science and global citizenship requirements for food science courses to test that interest without committing to it. I also noticed that a lot of the courses I care most about, like ENT 451 and the CECS internship, require junior standing, so most of the business and real-world experience happens in my last two years. That makes my internships and client work during my first two years even more important. The plan reflects my POV Statement because it combines technology, people, business, and creativity instead of locking me into one traditional path. It also connects directly to my SMART Goals, especially building my AI skills, completing an internship by Summer 2027, and growing my client projects. Seeing every semester laid out also showed me that the plan only works if I stay consistent, which is why my goal of controlling my attention matters so much. When I meet with my academic advisor, I want to confirm that my Entrepreneurship Minor courses can count as unrestricted electives and check whether any of my high school credits already cover a gen ed requirement. I also want to ask whether I could earn CECS 375 internship credit for my own client work and whether there are AI 395 Special Topics courses focused on product development.
+The most difficult part of building this plan was realizing how little time I have left, because I switched into Applied AI as a senior and now need to fit most of my major into three semesters and a summer. Laying out my degree audit semester by semester showed me that my path has not been a straight line, starting in food science and moving into AI, but almost none of that time was wasted, since all of my general education requirements are already done. The biggest gap I noticed is that FDSC 410 and FDSC 421, the last two courses for my Food Science minor, need CHEM 260 and microbiology first, which adds two extra courses I had not planned for. I am also unsure exactly how many TOPS hours I still need, because the audit counts some of my in-progress courses in more than one place. This plan reflects my POV Statement because it combines technology, science, business, and creativity instead of limiting me to one path. Food science, AI, and entrepreneurship together fit my goal of using technology to make products that people love. It also connects to my SMART Goals, especially finishing my AI courses with strong grades, landing an internship by Summer 2027, and continuing to grow my client work. With such a tight timeline, staying focused and consistent matters even more than before. When I meet with my advisor, I want to confirm my remaining TOPS hours and whether I can take CHEM 260 and MICR 210 in the same semester as three AI courses. I also want to ask whether my client work could count toward CECS 375 internship credit, and whether finishing the Food Science minor is worth it if it puts my Fall 2027 graduation at risk.
