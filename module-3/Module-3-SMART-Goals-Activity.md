@@ -155,7 +155,7 @@ Take one full day off from school and work every week for the rest of this semes
 I will pick one day each week with no classwork, client work, or business tasks, and protect it.
 
 **M — Measurable:** How will I track progress?
-I will mark each week on my calendar as "kept" or "missed." Success is keeping the day off in at least 12 of the remaining weeks of the semester.
+I will mark each week on my calendar as "kept" or "missed." Success is keeping the day off in at least 7 of the remaining 9 weeks of the semester.
 
 **A — Achievable:** Why is this realistic given my current situation?
 It requires planning my work ahead, which I already do, and I can reschedule the day within the week if I have to.
@@ -181,7 +181,7 @@ After completing the evaluation for each goal, create a summary table:
 | 2 | Complete AI 202, 301, 302 with a B or higher and keep GPA at 3.5+ | Academic | Spring 2027 (May 2027) | Course grades and cumulative GPA on degree audit |
 | 3 | Apply to 10+ internships and secure one for Summer 2027 | Career | By Jan 31, 2027 | 10 applications submitted, 1+ offer |
 | 4 | Complete CECS 375 internship and 5 more client projects (3+ paid) | Career | Summer 2027 (Aug 2027) | 5 delivered projects, 3+ paid, internship completed |
-| 5 | Take one full day off every week | Personal Development | Fall 2026 (Dec 2026) | 12 of the remaining weeks kept |
+| 5 | Take one full day off every week | Personal Development | Fall 2026 (Dec 2026) | 7 of the remaining 9 weeks kept |
 
 ---
 
