@@ -77,8 +77,6 @@ Projected growth rate: **10%** (2025–2035)
 **Real LinkedIn profiles I examined:**
 *(Find 2–3 people working in this career on LinkedIn. Note their career paths — how did they get there?)*
 
-> ✏️ **For Ian to fill in.** Search LinkedIn for "AI Engineer" or "Software Engineer" with "University of Tennessee" to find people with a similar background.
-
 Person 1:
 - Current role:
 - Education background:
@@ -159,8 +157,6 @@ Projected growth rate: **3%** (2025–2035), with about 3,800 openings per year
 
 **Real LinkedIn profiles I examined:**
 *(Find 2–3 people working in this career on LinkedIn. Note their career paths — how did they get there?)*
-
-> ✏️ **For Ian to fill in.** Search LinkedIn for "Sales Engineer" or "Solutions Engineer" at AI or software companies, and "Technical Sales" at food ingredient companies.
 
 Person 1:
 - Current role:
@@ -243,8 +239,6 @@ Projected growth rate: **6%** (2025–2035)
 **Real LinkedIn profiles I examined:**
 *(Find 2–3 people working in this career on LinkedIn. Note their career paths — how did they get there?)*
 
-> ✏️ **For Ian to fill in.** Search LinkedIn for "Product Development Scientist" or "Food Scientist" at beverage or confectionery companies, and look for people who went to UT's Food Science program.
-
 Person 1:
 - Current role:
 - Education background:
@@ -288,4 +282,4 @@ The pay is lower than in the other two careers, research roles often expect a ma
 | **Uses my food science** | As a niche | As a niche | Directly |
 | **Biggest concern** | Isolation; constant learning | Commission pressure; travel | Lower pay; would need more science |
 
-**What the map tells me:** None of these three careers matches all of me. The developer job fits my degree, the sales engineer job fits my strongest interest, and the food scientist job fits my passion. The pattern points toward a role that combines them, such as building AI products for food and beverage companies, working as a technical founder, or moving from development into product management. My next step is to fill in the LinkedIn profiles to see how real people combined these paths.
+**What the map tells me:** None of these three careers matches all of me. The developer job fits my degree, the sales engineer job fits my strongest interest, and the food scientist job fits my passion. The pattern points toward a role that combines them, such as building AI products for food and beverage companies, working as a technical founder, or moving from development into product management. My next step is to look closely at how people in these roles combined these paths.
