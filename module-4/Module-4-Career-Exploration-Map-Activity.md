@@ -283,3 +283,10 @@ The pay is lower than in the other two careers, research roles often expect a ma
 | **Biggest concern** | Isolation; constant learning | Commission pressure; travel | Lower pay; would need more science |
 
 **What the map tells me:** None of these three careers matches all of me. The developer job fits my degree, the sales engineer job fits my strongest interest, and the food scientist job fits my passion. The pattern points toward a role that combines them, such as building AI products for food and beverage companies, working as a technical founder, or moving from development into product management. The LinkedIn profiles backed this up: several people I found switched fields or built on internships and on-the-job experience, which tells me my mix of AI, food science, and business can be an advantage rather than a detour.
+
+---
+
+## Reflection
+
+**My Reflection:**
+Researching these three careers changed how I see my options. I expected the AI developer job to be the clear winner, since it matches my degree and pays the most. But after comparing all three side by side, I realized that the Sales Engineer career lines up best with my strongest RIASEC type, Enterprising, which I hadn't thought of as a real career option before. The LinkedIn profiles surprised me the most. Almost none of the people I looked at took a straight path: Mickey Miller moved into food science after years as a project manager, Chase Coyle became a sales engineer with a kinesiology degree, and Aaron St. John started as a technical writer before moving into AI. That made me less worried about how late I switched majors. The part that concerns me is that the careers that fit my interests best, like sales engineering and food product development, aren't the ones my degree points to directly, so I'll need to build those skills on purpose through my Food Science minor, my client work, and my internship. The question I want to explore next is whether there is a role that combines all three, such as a technical sales or product role at a food and beverage technology company, and I plan to talk to someone in that kind of job to find out.
