@@ -32,7 +32,7 @@ For each of your three careers, use O*NET, the BLS Occupational Outlook Handbook
 **Source(s) used:**
 - [x] O*NET: [Software Developers, 15-1252.00](https://www.onetonline.org/link/summary/15-1252.00)
 - [x] BLS Occupational Outlook Handbook: [Software Developers, QA Analysts, and Testers](https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm)
-- [ ] LinkedIn
+- [x] LinkedIn
 - [ ] Other
 
 **What people in this career actually do day-to-day:**
@@ -77,15 +77,15 @@ Projected growth rate: **10%** (2025–2035)
 **Real LinkedIn profiles I examined:**
 *(Find 2–3 people working in this career on LinkedIn. Note their career paths — how did they get there?)*
 
-Person 1:
-- Current role:
-- Education background:
-- Career path summary:
+Person 1: Jack Skupien
+- Current role: Associate AI Engineer at Premise Health (Knoxville area), since May 2026
+- Education background: B.S. in Computer Science with a minor in Machine Learning and Artificial Intelligence, University of Tennessee, Knoxville (2020–2025)
+- Career path summary: He started getting real experience early. While still a student he did a machine learning internship at Fluid Power AI (2022) and then a Data and AI internship at Premise Health (2023–2024). After graduating, he spent a year as an Automation & Integration Engineer at Superior Surgical, then went back to Premise Health as a full-time AI engineer. His path shows me how much internships matter: the company he interned with ended up hiring him.
 
-Person 2:
-- Current role:
-- Education background:
-- Career path summary:
+Person 2: Aaron St. John
+- Current role: Senior Engineer, AI at Pilot Company (Knoxville), since May 2025
+- Education background: B.S. in Mathematics and Statistics, Maryville College (2014–2018); M.S. in Business Analytics, University of Tennessee, Knoxville (2020–2021)
+- Career path summary: He didn't start in AI. His first job was as a technical writer at iXsystems, explaining technical work from developers and engineers, and he then became an engineering analyst there. After his master's at UT, he joined Pilot as an analyst and moved up from Data Scientist II to Senior Data Scientist and then to a senior AI engineering role, all at the same company. His path shows that communication and data skills can lead into AI, and that you can grow into an AI role by proving yourself inside a company.
 
 **Connection to my RIASEC profile:**
 *(How does this career align with your Holland Code? Which of your types does it reflect most strongly?)*
@@ -113,7 +113,7 @@ It could become isolating, and I might end up building things I don't care about
 **Source(s) used:**
 - [x] O*NET: [Sales Engineers, 41-9031.00](https://www.onetonline.org/link/summary/41-9031.00)
 - [x] BLS Occupational Outlook Handbook: [Sales Engineers](https://www.bls.gov/ooh/sales/sales-engineers.htm)
-- [ ] LinkedIn
+- [x] LinkedIn
 - [ ] Other
 
 **What people in this career actually do day-to-day:**
@@ -158,15 +158,15 @@ Projected growth rate: **3%** (2025–2035), with about 3,800 openings per year
 **Real LinkedIn profiles I examined:**
 *(Find 2–3 people working in this career on LinkedIn. Note their career paths — how did they get there?)*
 
-Person 1:
-- Current role:
-- Education background:
-- Career path summary:
+Person 1: Chase Coyle
+- Current role: Territory Sales Engineer II at KEYENCE Corporation (Nashville), since July 2025. He develops applications and projects for customers using Keyence's AutoID products and provides consultative support and on-site technical help.
+- Education background: B.S. in Kinesiology, University of Tennessee, Knoxville (2018–2022)
+- Career path summary: His degree wasn't in engineering at all. He did a physical therapy internship in college, then worked in retail sales leadership, as an inventory analyst and marketing intern at Interparfums, and as a national recruiter before landing his sales engineer role at Keyence. His path shows that sales engineering companies hire for people skills and drive, and then train the technical side on the job, which matches what the BLS says.
 
-Person 2:
-- Current role:
-- Education background:
-- Career path summary:
+Person 2: Jordyn Pratt-Laue
+- Current role: Technical Sales Engineer at KEYENCE Corporation, Laser Marking Division, since July 2025
+- Education background: Bachelor's degree in Communication, University of Tennessee, Knoxville (2021–2025)
+- Career path summary: She built her sales skills during college. She sold cutlery for Vector Marketing, reaching the company's highest sales rank and becoming a senior field sales leader who trained new reps, then worked in hospitality at a country club. She joined Keyence right after graduating. Her profile describes the job as combining technology and communication, and she talks about going on-site to train customers on the equipment after the sale. That's the part of this career that appeals to me most.
 
 **Connection to my RIASEC profile:**
 *(How does this career align with your Holland Code? Which of your types does it reflect most strongly?)*
@@ -194,7 +194,7 @@ Growth is only average, and pay based on commission makes income less predictabl
 **Source(s) used:**
 - [x] O*NET: [Food Scientists and Technologists, 19-1012.00](https://www.onetonline.org/link/summary/19-1012.00)
 - [x] BLS Occupational Outlook Handbook: [Agricultural and Food Scientists](https://www.bls.gov/ooh/life-physical-and-social-science/agricultural-and-food-scientists.htm)
-- [ ] LinkedIn
+- [x] LinkedIn
 - [ ] Other
 
 **What people in this career actually do day-to-day:**
@@ -244,10 +244,10 @@ Person 1: Mickey Miller
 - Education background: Bachelor's degree in Food Science and Technology, University of Tennessee, Knoxville (2006–2012)
 - Career path summary: He didn't start in food. He spent about 17 years as a project manager and supervisor at Shoffner Mechanical Contractors, managing mechanical and industrial projects worth $50,000 to $1 million. He moved into product development at Bush's in 2005 and then earned his food science degree at UT while working there. He's also active in the industry as a past president and website editor for his Institute of Food Technologists (IFT) section, and he has served on the Research Chefs Association Board of Directors since 2017. His path shows me that business and project management experience can be a real strength in food product development, and that it's possible to switch into food science partway through a career.
 
-Person 2:
-- Current role:
-- Education background:
-- Career path summary:
+Person 2: Virginia Mercer
+- Current role: R&D Food Scientist, Lead Senior at McKee Foods Corporation (maker of Little Debbie snacks), Ooltewah, Tennessee, since March 2023
+- Education background: B.S. in Food Science and Technology, University of Tennessee, Knoxville; Master's degree in Food Safety, Michigan State University (2015–2018)
+- Career path summary: She has spent her whole career at McKee Foods, starting in 1998. She first worked in Corporate Technical Services on food safety and raw materials, then became a Senior Food Scientist, and later was promoted to Lead Senior Food Scientist in R&D. She earned her master's in food safety while working. Her path shows a long, steady climb inside one company, and since McKee makes snack cakes and sweets, it's very close to the confectionery products I make for my own brand.
 
 **Connection to my RIASEC profile:**
 *(How does this career align with your Holland Code? Which of your types does it reflect most strongly?)*
@@ -282,4 +282,4 @@ The pay is lower than in the other two careers, research roles often expect a ma
 | **Uses my food science** | As a niche | As a niche | Directly |
 | **Biggest concern** | Isolation; constant learning | Commission pressure; travel | Lower pay; would need more science |
 
-**What the map tells me:** None of these three careers matches all of me. The developer job fits my degree, the sales engineer job fits my strongest interest, and the food scientist job fits my passion. The pattern points toward a role that combines them, such as building AI products for food and beverage companies, working as a technical founder, or moving from development into product management. My next step is to look closely at how people in these roles combined these paths.
+**What the map tells me:** None of these three careers matches all of me. The developer job fits my degree, the sales engineer job fits my strongest interest, and the food scientist job fits my passion. The pattern points toward a role that combines them, such as building AI products for food and beverage companies, working as a technical founder, or moving from development into product management. The LinkedIn profiles backed this up: several people I found switched fields or built on internships and on-the-job experience, which tells me my mix of AI, food science, and business can be an advantage rather than a detour.
