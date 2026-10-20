@@ -239,10 +239,10 @@ Projected growth rate: **6%** (2025–2035)
 **Real LinkedIn profiles I examined:**
 *(Find 2–3 people working in this career on LinkedIn. Note their career paths — how did they get there?)*
 
-Person 1:
-- Current role:
-- Education background:
-- Career path summary:
+Person 1: Mickey Miller
+- Current role: Product Developer at Bush Brothers & Company (Bush's Beans), Knoxville area, since 2005. He develops new products from concept to shelf, handling product design and processing and managing co-manufacturers, suppliers, and ingredients.
+- Education background: Bachelor's degree in Food Science and Technology, University of Tennessee, Knoxville (2006–2012)
+- Career path summary: He didn't start in food. He spent about 17 years as a project manager and supervisor at Shoffner Mechanical Contractors, managing mechanical and industrial projects worth $50,000 to $1 million. He moved into product development at Bush's in 2005 and then earned his food science degree at UT while working there. He's also active in the industry as a past president and website editor for his Institute of Food Technologists (IFT) section, and he has served on the Research Chefs Association Board of Directors since 2017. His path shows me that business and project management experience can be a real strength in food product development, and that it's possible to switch into food science partway through a career.
 
 Person 2:
 - Current role:
