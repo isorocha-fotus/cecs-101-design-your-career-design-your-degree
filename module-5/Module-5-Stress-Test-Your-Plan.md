@@ -18,33 +18,33 @@ This activity identifies the weak spots, assumptions, and single points of failu
 
 ### Stress Test 2: Market Disruption
 
-**My Scenario:** AI tools get good enough that companies hire far fewer entry-level developers, which is the type of job I'd be applying for. AI also makes building software so easy that many people start offering the same kind of costing and formulation tools I plan to build for small food producers.
+**My Scenario:** AI tools get good enough that companies hire far fewer entry-level developers, which is the type of job I'd be applying for. AI also makes building software so easy that many people start offering the same kind of costing and formulation tools I plan to build for small food producers. It's already happening with websites: I've rebuilt a client site that was first made with an AI site builder, and business owners can now generate a basic site on their own in an afternoon.
 
-**Impact on My Roadmap:** This hits my Stage 4 job search and my career vision. If entry-level developer jobs shrink, I'd face more competition for fewer roles. If anyone can build the tools, my business idea would have to stand out some other way. On top of that, I haven't confirmed that small producers want those tools at all.
+**Impact on My Roadmap:** This hits my Stage 4 job search and my career vision. If entry-level developer jobs shrink, I'd face more competition for fewer roles. If anyone can build the tools, my business idea would have to stand out some other way, and the simplest part of my current client work (basic websites) is the easiest to replace. On top of that, I haven't confirmed that small producers want those tools at all.
 
 **Vulnerability Rating:** 3 / 5
 
-**Mitigation Strategy:** My Food Science minor is my protection. Fewer developers understand both the software and the food science behind a product, and that combination is harder to automate. I'll lean into the people-facing skills AI can't replace easily (working with clients, explaining technical ideas, selling), and I'll interview 10 small food and beverage producers by March 2027 to test whether my tool idea solves a real problem before I build my career around it.
+**Mitigation Strategy:** My Food Science minor is my protection. Fewer developers understand both the software and the food science behind a product, and that combination is harder to automate. I'll lean into the people-facing skills AI can't replace easily (working with clients, explaining technical ideas, selling), and I'll interview 10 small food and beverage producers by March 2027 to test whether my tool idea solves a real problem before I build my career around it. With clients, I'll move past basic websites toward custom AI tools built around how each business actually runs, plus ongoing support, which is much harder for a site builder to copy.
 
 ### Stress Test 3: Academic Obstacles
 
-**My Scenario:** My Spring 2027 semester is overloaded: AI 202, AI 301, and AI 302, plus CHEM 260 and MICR 210 as prerequisites for my Food Science minor. If I struggle in one course, or a required AI course is only offered once a year and doesn't fit my schedule, I could have to retake it or push it back.
+**My Scenario:** My Spring 2027 semester is overloaded: AI 202, AI 301, and AI 302, plus CHEM 260 and MICR 210 as prerequisites for my Food Science minor. The risk starts this semester: AI 301 and AI 401 both require AI 102, and every major course needs a C or better, so a low grade in AI 102 now would push two courses back at once. If I struggle in one course, or a required AI course is only offered once a year and doesn't fit my schedule, I could have to retake it or push it back.
 
-**Impact on My Roadmap:** My Fall 2027 graduation date is the most affected. AI 401 and CECS 499 depend on finishing my earlier major courses, and FDSC 410 and FDSC 421 depend on CHEM 260 and MICR 210. One failed or delayed course could delay graduation by a full semester.
+**Impact on My Roadmap:** My Fall 2027 graduation date is the most affected. AI 301 and AI 401 depend on AI 102, AI 401 and CECS 499 depend on finishing my earlier major courses, and FDSC 410 and FDSC 421 depend on CHEM 260 and MICR 210. One failed or delayed course could delay graduation by a full semester.
 
 **Vulnerability Rating:** 4 / 5
 
-**Mitigation Strategy:** I'll meet with my advisor before Spring 2027 registration to confirm that all three AI courses will be offered and to check my remaining TOPS hours. I'm also deciding now that the Food Science minor is optional. If CHEM 260 or MICR 210 puts my graduation at risk, I'll drop the minor rather than delay my degree, and I'll keep learning food science through my own brand instead.
+**Mitigation Strategy:** My first priority is protecting my AI 102 grade this semester (SMART Goal 1 is a B or higher in every Fall 2026 course). I'll meet with my advisor before Spring 2027 registration to confirm that all three AI courses will be offered and to check my remaining TOPS hours. I'm also deciding now that the Food Science minor is optional. If CHEM 260 or MICR 210 puts my graduation at risk, I'll drop the minor rather than delay my degree, and I'll keep learning food science through my own brand instead.
 
 ### Stress Test 4: Life Interruptions
 
-**My Scenario:** I'm carrying a full course load, client work, and my own confectionery and beverage brand, which I fund myself. Burnout, money pressure, or a health issue could force me to cut back on classes or on my business.
+**My Scenario:** I'm carrying a full course load, client work, and my own confectionery and beverage brand, which I fund myself. Burnout, money pressure, or a health issue could force me to cut back on classes or on my business. Overload is a real pattern for me, not just a hypothetical: I've withdrawn from courses before (ECON 201 and PHYS 221), and I withdrew from another class this semester.
 
 **Impact on My Roadmap:** If I had to reduce my course load, Spring 2027 and Fall 2027 would be affected and graduation could move to Spring 2028. If I had to cut back on work, I'd lose client projects and income, which are part of my SMART goals and my portfolio.
 
 **Vulnerability Rating:** 3 / 5
 
-**Mitigation Strategy:** I'll protect one full day off each week (SMART Goal 5) and cap my client work at 3 active clients during the semester so school stays first. I'll hold off on major spending for my brand until after graduation. If I have to drop a course, I'll talk to my advisor right away about a realistic Spring 2028 graduation plan instead of trying to push through everything.
+**Mitigation Strategy:** I'll protect one full day off each week (SMART Goal 5) and cap my client work at 3 active clients during the semester so school stays first. I'll hold off on major spending for my brand until after graduation. I'll look up the withdrawal deadline at the start of each semester and check in on my workload before it, so dropping a course is a planned decision instead of a last-minute one. If I have to drop a course, I'll talk to my advisor right away about a realistic Spring 2028 graduation plan instead of trying to push through everything.
 
 ### Stress Test 5: Competitive Reality
 
