@@ -201,7 +201,7 @@ Organize your courses into a semester-by-semester table. Use the template below.
 | AI 301 – Natural Language Processing and Conversational AI | 3 | Major |
 | AI 302 – AI-based Data Handling and Visualization | 3 | Major |
 | CHEM 260 – Foundations of Organic Chemistry | 3 | Elective (prerequisite for FDSC 410) |
-| MICR 210 – Microbiology (confirm credit hours / lab) | 3 | Elective (prerequisite for FDSC 421) |
+| MICR 210 – Microbiology | 3 | Elective (prerequisite for FDSC 421) |
 | **Total** | **15** | |
 
 ### Summer 2027 — *planned*
@@ -209,7 +209,7 @@ Organize your courses into a semester-by-semester table. Use the template below.
 | Course | Credit | Gen Education/Major/Elective |
 |---|---|---|
 | CECS 375 – Internship in Emerging Technologies | 3 | Major (internship requirement) |
-| DATA 101 – Data Knowledge and Discovery (online if available) | 3 | Elective (TOPS – Applied AI program elective) |
+| DATA 101 – Data Knowledge and Discovery | 3 | Elective (TOPS – Applied AI program elective) |
 | **Total** | **6** | |
 
 ### YEAR 5 — Semester 2027 (Fall) — *final semester, graduation*
