@@ -119,44 +119,57 @@ If you choose B, C, D, or G, you must specify exactly what you are and are not a
 
 Write a **300-500 word** memo to the CEO. Executive register: direct, specific, no hedging, no filler. Lead with the recommendation.
 
-```markdown
 ## Part 6: Executive Decision Memo
 
 **TO:** R. Castellanos, CEO
-**FROM:** [Your Name], Chief People Officer
-**DATE:** [Date]
+**FROM:** Ian Sorochan, Chief People Officer
+**DATE:** November 2, 2026
 **RE:** Recommendation — TalentSift AI Hiring Platform
 
 ---
 
 ### Recommendation
-[Your decision in 1–2 sentences. First thing on the page.]
+Do not sign the full TalentSift contract. Run a 90-day pilot of résumé ranking and automated scheduling only, for warehouse associate roles at two distribution centers, with a recruiter approving every rejection. We will not license video interview analysis or attrition prediction.
 
 ### Rationale
-[3–4 paragraphs. Why this decision. Reference your stakeholder and ethical
-analysis without restating it. Be concrete.]
+Our current process is not neutral. We reject roughly 135,000 applicants a year by never looking at them. A ranking tool that reads every application, with a person making the final call, is fairer than what we do today, and it gives our exhausted recruiters real relief.
+
+The other two modules fail on TalentSift's own evidence. The attrition model learned from a 78–91% male workforce and penalizes long commutes, a proxy for neighborhood and income. It would turn past hiring patterns into future rules. Video analysis is 6–11% less accurate for non-native English speakers and people with speech disabilities. That is a discrimination claim waiting to happen.
+
+We also cannot defend what we cannot explain. TalentSift cannot say why a candidate scored 34, and the only audit was paid for by TalentSift. If a rejected applicant or a regulator asks why, "the model decided" is not an answer.
+
+Finally, we open in Illinois in 14 months, and Illinois already regulates AI video interviews and AI use in employment decisions. Building compliance in now is cheaper than retrofitting it.
 
 ### What This Costs Us
-[Be honest. If you're recommending adoption, name the harms you are accepting.
-If you're recommending rejection, name the $2.1M and the recruiting team's
-exhaustion. A memo with no costs is not credible.]
+We will not hit $2.1M next year. Year-one savings will be well below the board projection, and I will bring you a revised number by day 90. Recruiters stay overloaded during the pilot, and reviewing every rejection adds work.
 
 ### Conditions and Requirements
-[Specific, enforceable, numbered. What must be contractually true?]
+1. TalentSift provides the full audit report, and we commission our own independent bias audit before any expansion.
+2. Any candidate can request a plain-language explanation of their ranking.
+3. No automated rejections. A recruiter approves every rejection.
+4. Monthly selection-rate data by sex, race, age, and disability status, measured against the four-fifths rule.
+5. We can exit at day 90 with no penalty.
+6. TalentSift warrants compliance with Illinois law before any use there.
 
 ### Implementation
 | Timeframe | Action | Owner |
 |---|---|---|
-| First 30 days | | |
-| Days 31–90 | | |
-| Days 91–180 | | |
+| First 30 days | Negotiate terms; pick two pilot and two comparison sites; train recruiters | CPO, General Counsel |
+| Days 31–90 | Run the pilot; review fairness and speed data monthly | Director of Recruiting |
+| Days 91–180 | Expand, modify, or exit based on results; prepare Illinois compliance | CPO, General Counsel |
 
 ### How We Will Know If I Was Wrong
-[Name 3 specific, measurable signals that would indicate this decision failed,
-and what you will do if you see them.]
+1. **Any group's selection rate falls below 80% of the highest group's.** We pause and investigate.
+2. **Time-to-hire at pilot sites doesn't drop at least 25% versus comparison sites.** The savings case fails and we exit.
+3. **Recruiters overturn more than 20% of the tool's rankings.** We stop at the pilot.
 
 ### What I Need From You
-[1–2 sentences. What decision, budget, or authority do you need from the CEO?]
-```
+Approval to revise the $2.1M budget line with the board, and authority to walk away at day 90 if the data says so.
 
 ---
+
+## Reflection
+
+The hardest part of this assignment was the recruiter's comment that Meridian already rejects 135,000 people by ignoring them. My first instinct was to reject TalentSift completely, because the attrition model and video analysis clearly carried bias from the past. But rejecting it would have meant defending a process that isn't fair either, just less visible. That pushed me toward a middle option: use the part of the tool that helps everyone get looked at, and refuse the parts that judge people on things they can't control, like their accent or where they can afford to live.
+
+What stood out most was how much depends on explainability and on who pays for the audit. A vendor can say "bias-mitigated" without anyone being able to check it. This connects directly to my own work. I build AI tools for clients, I'm taking AI 201 (AI, Ethics, and Legal Frameworks) this semester, and I want to build software for small food producers. If someone asks why my tool gave a certain answer, I need to be able to explain it. This assignment showed me that being the person who has to decide and defend a choice is very different from discussing ethics in the abstract, and that a good decision names its costs and how you'd know it failed.
