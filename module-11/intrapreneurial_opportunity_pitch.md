@@ -75,3 +75,99 @@ Submit the following:
 
 1. Your YouTube URL
 2. Your stakeholder map and notes from your 2–3 conversations, shown as screenshots or slides in the recording
+
+---
+
+# My Proposal: The Come-Back Program at East Tennessee Window Cleaning
+
+## Step 1: My Organization
+
+**East Tennessee Window Cleaning** is a small residential window-cleaning business serving Knoxville, Maryville, Lenoir City, and Farragut. It's owned and run by Lincoln Unger with a small crew of young local workers (Asher, Edwin, and Landon are named in customer reviews). The business has a perfect 5.0-star Google rating.
+
+**My access:** I designed and built the company's website (easttennesseewindowcleaning.com), including its online quote form, so I know how customers find the business and how jobs come in.
+
+---
+
+## Step 2 & 3A: The Problem, and How I Know It's Real
+
+**The problem in one sentence:** Happy customers say they want to hire East Tennessee Window Cleaning again, but the business has no way of following up with them, so repeat jobs are left to chance.
+
+**Who it affects and how often:** Every past customer, every season. Window cleaning is a repeat service (most homeowners clean windows once or twice a year), but right now each job is treated as a one-time sale.
+
+**What it costs:** Missed repeat jobs and income, and more time spent finding brand-new customers. One review describes the crew going door to door through a neighborhood "looking for some last minute window cleaning jobs," which is the most time-consuming way to find work.
+
+### Evidence
+
+**1. Customers are already telling the business they'll come back.** Five of the 13 written Google reviews say the customer plans to hire them again:
+
+| Reviewer | What they said |
+|---|---|
+| Linda T. | "Plan to contract with him again in the fall." |
+| Russ M. | "Looking forward to using their screen cleaning services soon." |
+| Beth C. | "...will definitely use them again." |
+| Jolene D. | "Will definitely use him again." |
+| Sandra O. | "I would hire them again." |
+
+Linda's review was posted in May, and she named the fall as her next cleaning. If nobody reaches out, that job depends on her remembering to call.
+
+**2. The business is seasonal.** All of the dated reviews fall between May and September, and one review mentions the crew heading "back to college." Work clusters in the summer, which makes it more important to fill the spring and fall.
+
+**3. New inquiries are slow in the off-season.** The website's quote form has received 3 submissions since it launched on September 30, 2026 (some of which may be tests).
+
+**4. A missed upsell.** Russ M. wanted screen cleaning "soon," and several other reviews mention screens. Screen cleaning is an easy add-on to offer returning customers.
+
+---
+
+## Step 3B: My Solution and a Small Test
+
+**The idea: a "Come-Back Program."** Twice a year (early spring and early fall), the business sends past customers one short, friendly text offering to put them back on the schedule, with screen cleaning as an add-on.
+
+**Example text:**
+> "Hi Linda, this is Lincoln from East Tennessee Window Cleaning. Fall is a great time to get your windows done before the holidays. Want me to put you on the schedule? We can do your screens too. Reply STOP if you'd rather not get these."
+
+**The low-cost experiment:**
+- **What:** Lincoln texts every past customer he has a number for, once, from his own phone, using the message above.
+- **How long:** Two weeks.
+- **With whom:** Existing customers only. People who already hired the business and gave their number.
+- **Cost:** $0. No new software, no ads, about an hour of Lincoln's time.
+- **Tracking:** A simple spreadsheet listing each customer, whether they replied, whether they booked, and whether they added screens.
+
+If it works, the next step would be adding a "Returning customer" checkbox and a "Book your next cleaning" button to the website, which I can build.
+
+---
+
+## Step 3C: Stakeholder Map
+
+| Stakeholder | Role | How it affects them | Possible resistance | What's in it for them / how I'd frame it |
+|---|---|---|---|---|
+| **Lincoln Unger** (owner) | **Approves it.** Sends the texts. | More booked jobs without door-knocking or paying for ads | Busy; may feel texting customers is pushy; may not have every customer's number saved | "These customers already said they want to come back. One text could book jobs you'd otherwise have to go find." |
+| **Crew** (Asher, Edwin, Landon) | Do the work | More jobs and pay, possibly in the spring and fall when they're in school | Limited availability during the school year | Spread the rebooked jobs across weekends and school breaks so the work fits their schedules |
+| **Past customers** | Receive the text | A convenient reminder; no need to look up the number | Some won't want texts | Only one message per season, sent from a number they already know, with an easy way to opt out |
+| **Me** (web developer) | Proposes the idea; would build website changes | — | — | Helps the website I built bring in more business |
+
+**Strategy for getting buy-in:** Start with Lincoln, and lead with the customers' own words from Google, not with my opinion. Ask for a two-week test with no cost, not a permanent change. A small "yes" is easier to get than a big one.
+
+---
+
+## Step 3D: Expected Impact and How I'd Measure It
+
+**Expected benefits:**
+- **Revenue gained:** Repeat jobs from customers who already trust the business
+- **Time saved:** Less door-to-door searching for new customers
+- **Upsell:** More screen-cleaning add-ons
+- **Reputation:** Returning customers are likely to leave more 5-star reviews
+
+**How I'd measure whether the test worked:**
+1. **Rebooking rate:** The percentage of texted customers who book a cleaning within 30 days. **Success threshold:** at least 1 in 5 customers rebooks.
+2. **Screen add-on rate:** The percentage of rebooked jobs that include screen cleaning.
+3. **Opt-outs:** If more than 1 in 10 customers reply STOP or complain, the message needs to change.
+
+---
+
+## Step 3E: Reflecting on the Reality
+
+**What would make this hard:** It's a small, informal business. Lincoln may not have a clean list of past customers, and he's busy doing the actual work. The crew are college students, so there may not be enough people to take on extra spring and fall jobs. Texting also has to be done respectfully, with only existing customers, one message, and a clear way to opt out.
+
+**Skills and relationships I'd need:** Lincoln's trust that I understand his business and not just his website; the ability to make a case with evidence instead of opinions; and simple data tracking to show whether the test worked.
+
+**If the answer is "no":** I'd ask what the concern is. If it's time, I'd offer to draft the messages and set up the spreadsheet so all Lincoln has to do is hit send. If texting feels too pushy, I'd suggest a version that doesn't involve texting at all: adding a "Book your next cleaning" button and a returning-customer option to the website, which I could do on my own, and then check back in a season with the results.
