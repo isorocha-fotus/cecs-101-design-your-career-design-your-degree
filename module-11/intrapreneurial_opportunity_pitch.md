@@ -78,61 +78,65 @@ Submit the following:
 
 ---
 
-# My Proposal: The Come-Back Program at East Tennessee Window Cleaning
+# My Proposal: Online Quotes for East Tennessee Window Cleaning
 
 ## Step 1: My Organization
 
-**East Tennessee Window Cleaning** is a small residential window-cleaning business serving Knoxville, Maryville, Lenoir City, and Farragut. It's owned and run by Lincoln Unger with a small crew of young local workers (Asher, Edwin, and Landon are named in customer reviews). The business has a perfect 5.0-star Google rating.
+**East Tennessee Window Cleaning** is a small residential window-cleaning business serving Knoxville, Maryville, Lenoir City, and Farragut. It's owned and run by Lincoln Unger with a small crew of young local workers, and it has a perfect 5.0-star rating on Google.
 
-**My access:** I designed and built the company's website (easttennesseewindowcleaning.com), including its online quote form, so I know how customers find the business and how jobs come in.
-
----
-
-## Step 2 & 3A: The Problem, and How I Know It's Real
-
-**The problem in one sentence:** Happy customers say they want to hire East Tennessee Window Cleaning again, but the business has no way of following up with them, so repeat jobs are left to chance.
-
-**Who it affects and how often:** Every past customer, every season. Window cleaning is a repeat service (most homeowners clean windows once or twice a year), but right now each job is treated as a one-time sale.
-
-**What it costs:** Missed repeat jobs and income, and more time spent finding brand-new customers. One review describes the crew going door to door through a neighborhood "looking for some last minute window cleaning jobs," which is the most time-consuming way to find work.
-
-### Evidence
-
-**1. Customers are already telling the business they'll come back.** Five of the 13 written Google reviews say the customer plans to hire them again:
-
-| Reviewer | What they said |
-|---|---|
-| Linda T. | "Plan to contract with him again in the fall." |
-| Russ M. | "Looking forward to using their screen cleaning services soon." |
-| Beth C. | "...will definitely use them again." |
-| Jolene D. | "Will definitely use him again." |
-| Sandra O. | "I would hire them again." |
-
-Linda's review was posted in May, and she named the fall as her next cleaning. If nobody reaches out, that job depends on her remembering to call.
-
-**2. The business is seasonal.** All of the dated reviews fall between May and September, and one review mentions the crew heading "back to college." Work clusters in the summer, which makes it more important to fill the spring and fall.
-
-**3. New inquiries are slow in the off-season.** The website's quote form has received 3 submissions since it launched on September 30, 2026 (some of which may be tests).
-
-**4. A missed upsell.** Russ M. wanted screen cleaning "soon," and several other reviews mention screens. Screen cleaning is an easy add-on to offer returning customers.
+**My access:** I worked directly with Lincoln to plan, design, and build the company's new website (easttennesseewindowcleaning.com), including its online quote form. That meant learning how customers find the business, how quotes were handled, and what Lincoln needed to run jobs.
 
 ---
 
-## Step 3B: My Solution and a Small Test
+## Step 2: Evidence — Observations, Conversations, and Data
 
-**The idea: a "Come-Back Program."** Twice a year (early spring and early fall), the business sends past customers one short, friendly text offering to put them back on the schedule, with screen cleaning as an add-on.
+### What I observed
+- **The old website couldn't take a quote request.** Its "Request Your Quote" button only led to a contact page with a phone number and email address. Every quote depended on a customer calling, texting, or emailing, and on Lincoln answering, often while he was on a job.
+- **The business's best selling point was hidden.** Fourteen 5-star Google reviews existed, but none of them appeared on the old site.
+- **Screen cleaning wasn't listed** as a service, even though several customers mention it in their reviews.
+- **Work depends on hustle.** One Google review describes the crew going door to door through a neighborhood "looking for some last minute window cleaning jobs."
 
-**Example text:**
-> "Hi Linda, this is Lincoln from East Tennessee Window Cleaning. Fall is a great time to get your windows done before the holidays. Want me to put you on the schedule? We can do your screens too. Reply STOP if you'd rather not get these."
+### Conversation notes
 
-**The low-cost experiment:**
-- **What:** Lincoln texts every past customer he has a number for, once, from his own phone, using the message above.
-- **How long:** Two weeks.
-- **With whom:** Existing customers only. People who already hired the business and gave their number.
-- **Cost:** $0. No new software, no ads, about an hour of Lincoln's time.
-- **Tracking:** A simple spreadsheet listing each customer, whether they replied, whether they booked, and whether they added screens.
+**Conversation 1: Lincoln Unger, owner** *(while planning and building the website, Sept–Oct 2026)*
+- He needed a real website and a way for customers to **request quotes online**, not just a phone number.
+- Quote requests had to go **straight to the business Gmail** so none would be missed.
+- To price a job and plan the route, he needs the **customer's full address**, so we replaced the "Town" dropdown on the form with a full address field.
+- He wanted **screen cleaning** offered as a service, and the site to show the business's **5-star reviews** and its **satisfaction guarantee**.
 
-If it works, the next step would be adding a "Returning customer" checkbox and a "Book your next cleaning" button to the website, which I can build.
+### Existing data
+- **Google reviews:** 5.0 stars from 14 reviews. Five of the 13 written reviews say the customer plans to hire the business again.
+- **Quote form:** 4 submissions since the new site launched on September 30, 2026, a few of which were tests. That's during the slower fall season.
+
+---
+
+## Step 3A: The Problem, and How I Know It's Real
+
+**The problem:** Customers couldn't get a quote without catching Lincoln on the phone, and the website did little to convince them to try. For a business where most customers find you on Google from their phone, that means lost leads. Someone who can't get an answer right away moves on to the next company in the search results, and there's a look-alike competitor, "East Tennessee Window Washing," right next to this one on Google Maps.
+
+**Who it affects:** Every potential customer, Lincoln (who answers every inquiry himself while working), and the crew (whose work depends on jobs coming in).
+
+**What it costs:** Missed jobs, time Lincoln spends on back-and-forth calls and texts collecting details, and a weaker first impression than a 5-star business deserves.
+
+---
+
+## Step 3B: My Solution and the Small Test
+
+**The solution:** A new website built around getting quotes:
+- An **online quote form** (name, phone, email, full address, services, number of stories, notes) that emails every request to the business Gmail.
+- **Tap-to-call and tap-to-text buttons** on every page and a sticky Call/Text/Quote bar on phones.
+- The **Google reviews shown on the site**, with a link to the listing so they can be verified.
+- **Screen cleaning** added as a service.
+
+**The low-cost test (already running):**
+- **What:** Launch the quote form and track every request that comes through it.
+- **How long:** 90 days, from September 30 to December 31, 2026, then compare with the spring season.
+- **Cost:** About $0 beyond the domain name. The site is hosted for free on Netlify, and the quote form is free at this volume.
+- **With whom:** Every customer who visits the website.
+
+**The next step I'm pitching:** Two free changes that would send more people to the form:
+1. **Point the Google Business Profile's website link to the new site,** since that's where most customers find the business.
+2. **Reply to texts and calls with a link to the quote form,** so the customer fills in their address and details and Lincoln doesn't have to collect them by hand.
 
 ---
 
@@ -140,34 +144,34 @@ If it works, the next step would be adding a "Returning customer" checkbox and a
 
 | Stakeholder | Role | How it affects them | Possible resistance | What's in it for them / how I'd frame it |
 |---|---|---|---|---|
-| **Lincoln Unger** (owner) | **Approves it.** Sends the texts. | More booked jobs without door-knocking or paying for ads | Busy; may feel texting customers is pushy; may not have every customer's number saved | "These customers already said they want to come back. One text could book jobs you'd otherwise have to go find." |
-| **Crew** (Asher, Edwin, Landon) | Do the work | More jobs and pay, possibly in the spring and fall when they're in school | Limited availability during the school year | Spread the rebooked jobs across weekends and school breaks so the work fits their schedules |
-| **Past customers** | Receive the text | A convenient reminder; no need to look up the number | Some won't want texts | Only one message per season, sent from a number they already know, with an easy way to opt out |
-| **Me** (web developer) | Proposes the idea; would build website changes | — | — | Helps the website I built bring in more business |
+| **Lincoln Unger** (owner) | **Approves it.** Answers quotes. | Gets complete quote requests in writing, any time of day | Used to handling everything by phone and text; worried about missing an email | "Every request lands in your Gmail with the address already filled in. You quote from your phone between jobs instead of playing phone tag." |
+| **Crew** (Asher, Edwin, Landon) | Do the work | More jobs on the schedule; accurate addresses and job details before they arrive | None expected, unless more jobs conflict with school | More booked work and fewer surprises on site |
+| **Customers** | Request quotes | Can ask for a quote at 10 PM without calling | Some people prefer to call | Calling and texting stay front and center. The form is an extra option. |
+| **Me** (web developer) | Built and maintain the site | Ongoing updates | My own time | A real project for my portfolio and a client who refers others |
 
-**Strategy for getting buy-in:** Start with Lincoln, and lead with the customers' own words from Google, not with my opinion. Ask for a two-week test with no cost, not a permanent change. A small "yes" is easier to get than a big one.
+**Strategy for getting buy-in:** Lead with the problem Lincoln already told me about (needing online quotes) and show that the solution costs almost nothing and doesn't replace calls or texts. Ask for a 90-day trial, then let the numbers decide.
 
 ---
 
 ## Step 3D: Expected Impact and How I'd Measure It
 
 **Expected benefits:**
-- **Revenue gained:** Repeat jobs from customers who already trust the business
-- **Time saved:** Less door-to-door searching for new customers
-- **Upsell:** More screen-cleaning add-ons
-- **Reputation:** Returning customers are likely to leave more 5-star reviews
+- **Revenue gained:** Fewer lost leads from people who would never call
+- **Time saved:** Quote requests arrive with the address, services, and stories already filled in
+- **Satisfaction:** Customers get a quote on their schedule
+- **Credibility:** Visitors see the 5-star reviews before they contact anyone
 
-**How I'd measure whether the test worked:**
-1. **Rebooking rate:** The percentage of texted customers who book a cleaning within 30 days. **Success threshold:** at least 1 in 5 customers rebooks.
-2. **Screen add-on rate:** The percentage of rebooked jobs that include screen cleaning.
-3. **Opt-outs:** If more than 1 in 10 customers reply STOP or complain, the message needs to change.
+**How I'd measure it:**
+1. **Quote requests per month from the website.** Success: at least 10 real requests a month during the spring season.
+2. **Share of new jobs that started with the form**, tracked by asking new customers how they found the business.
+3. **Time to respond:** how long it takes Lincoln to reply to a form request. Goal: within 1 business day, which the site promises.
 
 ---
 
 ## Step 3E: Reflecting on the Reality
 
-**What would make this hard:** It's a small, informal business. Lincoln may not have a clean list of past customers, and he's busy doing the actual work. The crew are college students, so there may not be enough people to take on extra spring and fall jobs. Texting also has to be done respectfully, with only existing customers, one message, and a clear way to opt out.
+**What would make this hard:** It's a small, busy business, and Lincoln is doing the actual cleaning, so checking email isn't always his habit. Phone and text are how he's always worked. The business is also seasonal, so fall and winter numbers will be low no matter what, which makes it harder to prove the form is working until spring.
 
-**Skills and relationships I'd need:** Lincoln's trust that I understand his business and not just his website; the ability to make a case with evidence instead of opinions; and simple data tracking to show whether the test worked.
+**Skills and relationships I'd need:** Lincoln's trust, which I've built by working with him on the site; the ability to explain technical things simply; and patience to track the numbers over a full season before declaring success or failure.
 
-**If the answer is "no":** I'd ask what the concern is. If it's time, I'd offer to draft the messages and set up the spreadsheet so all Lincoln has to do is hit send. If texting feels too pushy, I'd suggest a version that doesn't involve texting at all: adding a "Book your next cleaning" button and a returning-customer option to the website, which I could do on my own, and then check back in a season with the results.
+**If the answer is "no":** I'd ask what the concern is. If it's missing emails, I'd set up a text alert for every new quote. If it's that customers prefer calling, I'd keep the form as a backup and make the call and text buttons even more prominent. And I'd offer to check back after the spring season with real numbers.
